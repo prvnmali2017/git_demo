@@ -1,3 +1,3 @@
 class {
-    reboot => '1'
+    reboot => '1x'
 }

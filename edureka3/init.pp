@@ -1,3 +1,3 @@
 class {
-    ansible_cache => 'true'
+    ansible_cache => 'false'
 }
