@@ -1,0 +1,3 @@
+class {
+    reboot => '1'
+}
