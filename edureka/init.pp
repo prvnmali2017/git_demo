@@ -1,4 +1,4 @@
 #THis is my first class
 Class {
-     myvariables => `14`
+     myvariables => `16`
 }
